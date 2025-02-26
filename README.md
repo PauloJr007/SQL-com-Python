@@ -33,6 +33,7 @@ Server: "Seu Servidor SQL"
 
 
 **O Caminho dos arquivos também estão alterados:**
+
 ![image](https://github.com/user-attachments/assets/7232b6c8-247b-47c0-a892-4be518f36c4e)
 
 Para encontrar os caminhos certos, você pode clicar com o botão direito em cada arquivo, e ir em "copiar caminho". Ou selecionar o arquivo e teclar "Shift+Alt+C".
