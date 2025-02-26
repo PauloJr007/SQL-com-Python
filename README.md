@@ -3,7 +3,7 @@
 ## Oque você encontra em cada pasta:
 
 Pasta 1: GerandoDados
- - Aqui utilizo da biblioteca de Python "Faker" para criar Dados fictícios, para inserir no Banco De Dados
+ - Aqui utilizo da biblioteca de Python "Faker" para criar Dados fictícios, usados para inserir no Banco De Dados
 
 Pasta 2: BancoDeDados
  - Conectando ao servidor SQL.
