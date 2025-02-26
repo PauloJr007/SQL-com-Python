@@ -21,7 +21,7 @@ Caso queira, para conseguir rodar os códigos, deve criar um servidor no SQL Ser
 
 ![image](https://github.com/user-attachments/assets/9ec92bd6-c098-419a-b870-f36f05c4d400)
 
-Driver: 
+**Driver**: 
 Para descobrir qual driver usar, rode o seguinte código no Python
 
  import pyodbc
@@ -31,7 +31,8 @@ Para descobrir qual driver usar, rode o seguinte código no Python
 Deverá retornar os drivers disponíveis, algo como:
  ['SQL Server', 'ODBC Driver 17 for SQL Server']
 
-Server: "Seu Servidor SQL"
+
+**Server**: "Seu Servidor SQL"
 
 
 **O Caminho dos arquivos também estão alterados:**
